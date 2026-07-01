@@ -1,5 +1,6 @@
 # Triki BLE Controller 🎮
 ![Triki](https://img.shields.io/badge/Triki-purple)
+![BLE](https://img.shields.io/badge/Bluetooth%20Low-Energy-brightblue)
 ## Spis treści
 1. [Opis projektu](#opis-projektu)
 2. [Funkcjonalności](#funkcjonalności)
