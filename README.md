@@ -1,5 +1,5 @@
 # Triki BLE Controller 🎮
-![Triki](https://triki.zabka.pl/)
+![Triki](https://img.shields.io/badge/Triki-purple)
 ## Spis treści
 1. [Opis projektu](#opis-projektu)
 2. [Funkcjonalności](#funkcjonalności)
