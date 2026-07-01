@@ -1,5 +1,5 @@
 # Triki BLE Controller 🎮
-
+![Triki](https://img.shields.io/badge/Token-Auto%20Updated-brightgreen)
 ## Spis treści
 1. [Opis projektu](#opis-projektu)
 2. [Funkcjonalności](#funkcjonalności)
